@@ -1,124 +1,132 @@
-body{
+body {
     font-family: 'Montserrat';
 }
 
 
-#title{
+#title {
     background-color: #ff4c68;
     color: white;
 }
 
-.container-fluid{
-    padding: 3% 15%;
+.container-fluid {
+    padding: 3% 15% 7%;
 }
 
-h1{
+h1 {
     font-size: 3.5rem;
     line-height: 1.5;
     font-weight: 900;
 }
 
-h2{
+h2 {
     font-size: 3.5rem;
     line-height: 1.5;
     font-weight: 600;
 }
 
-h3{
+h3 {
     font-size: 1.5rem;
     color: #000;
     font-weight: 800;
 }
 
-p{
+p {
     color: #8f8f8f;
 }
 
 /* Navigation Bar */
 
-.navbar{
-    padding:0 0 4.5rem;
+.navbar {
+    padding: 0 0 4.5rem;
 }
 
-.navbar-brand{
+.navbar-brand {
     font-family: "Ubuntu";
     font-size: 2.5rem;
     font-weight: bold;
 
 }
 
-.nav-item{
+.nav-item {
     padding: 0 18px;
 }
 
-.nav-link{
+.nav-link {
     font-size: 1.2rem;
-    font-family: "Montserrat-Light",sans-serif;
+    font-family: "Montserrat-Light", sans-serif;
 }
 
 /* download button */
 
-.download-button{
+.download-button {
     margin: 5% 3% 5% 0;
 }
 
 /* title image */
 
-.title-image{
-    width: 60%;
+.title-image {
+    width: 50%;
     transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+}
+
+.iphone-container{
+    position: relative;
 }
 
 /* feature section */
 
-#features{
+#features {
     padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
 }
 
-.feature-box{
+.feature-box {
     text-align: center;
     padding: 8%;
 }
 
-.icon{
+.icon {
     color: #ff4c68;
 }
 
-.fa-solid{
+.fa-solid {
     color: #ef8172;
     margin-bottom: 1rem;
 }
 
-.fa-solid:hover{
+.fa-solid:hover {
     color: #ff4c68;
 }
 
 /* testomonial section */
 
-#testimonials{
+#testimonials {
     padding: 7% 15%;
     text-align: center;
     background-color: #ef8172;
     color: #fff;
 }
 
- .testimonial-img{
+.testimonial-img {
     width: 10%;
     border-radius: 100%;
     margin: 20px;
 }
 
-.carousel-item{
+.carousel-item {
     padding: 7% 15%;
 }
 
-#press{
+#press {
     background-color: #ef8172;
     text-align: center;
     padding-bottom: 10%;
 }
 
-.press-logo{
+.press-logo {
     width: 15%;
     margin: 20px 20px 50px;
 }
@@ -130,6 +138,6 @@ p{
     text-align: center;
 }
 
-.pricing-column{
+.pricing-column {
     padding: 3% 2%;
 }
