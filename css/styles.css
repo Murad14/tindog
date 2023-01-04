@@ -18,6 +18,12 @@ h1{
     font-weight: 900;
 }
 
+h2{
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 600;
+}
+
 h3{
     font-size: 1.5rem;
     color: #000;
@@ -85,4 +91,17 @@ p{
 
 .fa-solid:hover{
     color: #ff4c68;
+}
+
+/* testomonial section */
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testimonial-image{
+    
 }
