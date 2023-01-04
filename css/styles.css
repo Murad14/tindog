@@ -80,4 +80,9 @@ p{
 
 .fa-solid{
     color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.fa-solid:hover{
+    color: #ff4c68;
 }
