@@ -159,6 +159,16 @@ p {
     line-height: 1.5;
 }
 
+/* footer section */
+
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icon{
+    margin: 20px 10px ;
+}
 
 @media (max-width: 1028px){
 
