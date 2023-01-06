@@ -1,6 +1,7 @@
 # TinDog Website
 
 ## This website design is inspired from tinder dating apps website.
+### Responsive for Mobile, Tab & for Desktop
 
 <li> Language Usage: HTML, CSS </li>
 <li> Framwork: Bootstrap 5 </li>
